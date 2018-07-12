@@ -1,0 +1,12 @@
+{
+  "name": "爬取微信公众号文章",
+  "version": "1.0.0",
+  "description": "anyproxy --intercept --rule main.js",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "better-xlsx": "^0.7.0"
+  }
+}
